@@ -1,4 +1,4 @@
-langchain
+langchain[all]
 PyPDF2
 python-dotenv
 streamlit
@@ -6,4 +6,3 @@ faiss-cpu
 streamlit-extras
 altair<5
 openai
-tiktoken
